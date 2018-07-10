@@ -1,4 +1,4 @@
-package com.backslashn.com.singleton.simple;
+package com.backslashn.singleton.simple;
 
 public class MySingletonExample {
     public static void main(String[] args) {
